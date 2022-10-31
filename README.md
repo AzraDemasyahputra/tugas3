@@ -26,8 +26,8 @@ Berikut ini adalah hasil running program untuk menghitung luas Lingkaran dan Kel
 
 Penjelasan Algoritma Menghitung Luas dan Keliling Lingkaran sebagai berikut:
 
-1 Mulai
-2 Masukan Jari-Jari
-3 Proses hitung Luas (L) dan Keliling (K) Lingkaran
-4 Tampilkan Luas (L) dan Keliling (K) Lingkaran
-5 Selesai
+1.Mulai
+2.Masukan Jari-Jari
+3.Proses hitung Luas (L) dan Keliling (K) Lingkaran
+4.Tampilkan Luas (L) dan Keliling (K) Lingkaran
+5.Selesai
